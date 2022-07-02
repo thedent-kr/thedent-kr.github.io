@@ -15,9 +15,9 @@ alt: 01-thumbnail
 2. 작업 시 주입량과 주입펌프를 정량 제어하는데 목적이 있습니다.
 3. 안전사고 발생 시 발생 원인을 찾아내는데 기여할 수 있습니다.
 
-![assets/img/portofolio/01/01-article.png]
-![assets/img/portofolio/01/02-article.png]
-![assets/img/portofolio/01/03-article.png]
-![assets/img/portofolio/01/04-article.png]
-![assets/img/portofolio/01/05-article.png]
+![](assets/img/portofolio/01/01-article.png)
+![](assets/img/portofolio/01/02-article.png)
+![](assets/img/portofolio/01/03-article.png)
+![](assets/img/portofolio/01/04-article.png)
+![](assets/img/portofolio/01/05-article.png)
 
