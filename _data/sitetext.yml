@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Products can be used in the following places."
     section: portfolio
     closebutton: "Close Project"
 
@@ -168,9 +168,9 @@ ko: &DEFAULT_KO
 
   portfolio:
     title: "적용 사례"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "다음과 같은 곳에서 제품 활용이 가능합니다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "프로젝트 닫기"
 
   timeline:
     title: "연혁 및 사업소개"
