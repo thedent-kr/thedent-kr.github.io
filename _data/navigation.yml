@@ -17,14 +17,10 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Timeline"
+      section: timeline
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -34,25 +30,19 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
-# -------
-es: &DEFAULT_ES
+# Korean
+# -----------------
+ko: &DEFAULT_KO
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+    - title: "제품 소개"
+      section: services
+    - title: "적용 사례"
+      section: portfolio
+    - title: "회사 소개"
+      section: about
+    - title: "팀소개"
+      section: team
+    - title: "연혁 및 사업소개"
+      section: timeline
+ko-KR:
+  <<: *DEFAULT_KO
