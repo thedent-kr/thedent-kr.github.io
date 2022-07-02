@@ -148,7 +148,7 @@ ko: &DEFAULT_KO
     title: 이제는 비싸고 복잡한 PLC에서 벗어나세요
     text: "스마트 컨트롤러를 통해 \ \n
            스마트하게 설비를 운용하세요"
-    button: Tell Me More
+    button: 더 알아보기
     buttonlink: "#services"
 
   services:
