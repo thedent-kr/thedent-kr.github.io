@@ -153,7 +153,7 @@ ko: &DEFAULT_KO
 
   services:
     title: "제품 소개"
-    text: "Lorem ipsum"
+    text: "우리의 제품은 이렇습니다."
     section: services
     list:
       - title: "저렴하다"
