@@ -156,15 +156,15 @@ ko: &DEFAULT_KO
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "저렴하다"
+        desc: "PLC에 비해 가격이 저렴합니다."
+        icon: fas fa-circle-dollar #find more at https://fontawesome.com/icons
+      - title: "간단하다"
+        desc: "ATmega 기반이라서 간단하며, 사용자가 직접 프로그래밍 후 업로드도 가능합니다."
+        icon: fas fa-microchip
+      - title: "가능하다"
+        desc: "어느 분야든 빠른 설치가 가능합니다."
+        icon: fab fa-person-chalkboard
 
   portfolio:
     title: "적용 사례"
@@ -192,7 +192,7 @@ ko: &DEFAULT_KO
   about:
     title: "회사 소개"
     text: ""
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "작성중입니다..."
     section: about
 
   clients:
