@@ -168,7 +168,7 @@ ko: &DEFAULT_KO
 
   portfolio:
     title: "적용 사례"
-    text: "이 외의 분야에서도 적용이 가능합니다."
+    text: "마이컴 기반의 컨트롤러를 적용했던 프로젝트입니다."
     section: portfolio
     closebutton: "프로젝트 닫기"
 
