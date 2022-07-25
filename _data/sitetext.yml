@@ -214,7 +214,7 @@ ko: &DEFAULT_KO
 
   team:
     title: "팀소개"
-    text: "서비스를 만들어가는 팀을 소개합니다."
+    text: ""
     subtext: ""
     section: team
     people:
