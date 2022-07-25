@@ -160,7 +160,7 @@ ko: &DEFAULT_KO
         desc: "PLC에 비해 초기 구축 비용이 저렴합니다."
         icon: fas fa-coins #find more at https://fontawesome.com/icons
       - title: "간단하다"
-        desc: "ATmega 기반이라서 간단하며, 사용자가 직접 프로그래밍 후 업로드도 가능합니다."
+        desc: "ATmega 기반이라서 간단하며, 사용자가 직접 프로그래밍을 하여 커스텀마이징도 가능합니다."
         icon: fas fa-microchip
       - title: "다양하다"
         desc: "어느 분야든 적용이 가능합니다."
