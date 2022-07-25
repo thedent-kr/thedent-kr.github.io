@@ -186,7 +186,7 @@ ko: &DEFAULT_KO
         alt:
         # you can enforce the alignment
         align: right
-    end: "우리의 <br> 이야기는 <br> 계속됩니다."
+    end: "..."
 
   about:
     title: "회사 소개"
