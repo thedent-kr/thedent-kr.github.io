@@ -186,7 +186,7 @@ ko: &DEFAULT_KO
         alt:
         # you can enforce the alignment
         align: right
-    end: "..."
+    end: "<br>.  .  .<br>"
 
   about:
     title: "회사 소개"
