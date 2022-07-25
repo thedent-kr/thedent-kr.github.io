@@ -163,7 +163,7 @@ ko: &DEFAULT_KO
         desc: "ATmega 기반이라서 간단하며, 사용자가 직접 프로그래밍을 하여 커스텀마이징도 가능합니다."
         icon: fas fa-microchip
       - title: "다양하다"
-        desc: "어느 분야든 적용이 가능합니다."
+        desc: "다양한 분야에서 적용이 가능합니다."
         icon: fas fa-microchip
 
   portfolio:
