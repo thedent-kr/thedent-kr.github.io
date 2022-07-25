@@ -186,6 +186,13 @@ ko: &DEFAULT_KO
         alt:
         # you can enforce the alignment
         align: right
+      - title: "회사 설립"
+        year: "2022"
+        desc: "**7월** 회사 설립 및 홈페이지 서비스 시작"
+        image: assets/img/timeline/1.png
+        alt:
+        # you can enforce the alignment
+        align: right
     end: "우리의 <br> 이야기는 <br> 계속됩니다."
 
   about:
