@@ -186,7 +186,8 @@ ko: &DEFAULT_KO
         alt:
         # you can enforce the alignment
         align: right
-    end: "<br>.  .  .<br>"
+    end:
+      - image: assets/img/timeline/4.png
 
   about:
     title: "회사 소개"
