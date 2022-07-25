@@ -88,8 +88,8 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
         social:
           - url: mailto://moonseoungwook.thedent.kr
-            icon: fab fa-mail
-          - url: https://facebook.com
+            icon: fas fa-envelope
+          - url: https://facebook.com/
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -222,21 +222,21 @@ ko: &DEFAULT_KO
         role: "Business Development & PR"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: mailto://moonseoungwook.thedent.kr
+            icon: fas fa-envelope
+          - url: https://facebook.com/seungwook0
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/승욱-문-864319243
             icon: fab fa-linkedin-in
       - name: "이종영"
         role: "Product Developer"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: mailto://leejongyoung@thedent.kr
+            icon: fas fa-envelope
+          - url: https://facebook.com/leejongyoung0326
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/leejongyoung
             icon: fab fa-linkedin-in
 
   contact:
