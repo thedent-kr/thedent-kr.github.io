@@ -179,14 +179,7 @@ ko: &DEFAULT_KO
     # left is the default
     #start_align: "left"
     events:
-      - title: "회사 설립"
-        year: "2022"
-        desc: "**7월** 회사 설립 및 홈페이지 서비스 시작"
-        image: assets/img/timeline/1.png
-        alt:
-        # you can enforce the alignment
-        align: right
-      - title: "회사 설립"
+      - title: ""
         year: "2022"
         desc: "**7월** 회사 설립 및 홈페이지 서비스 시작"
         image: assets/img/timeline/1.png
