@@ -188,6 +188,7 @@ ko: &DEFAULT_KO
         align: right
     end:
       - image: assets/img/timeline/4.png
+        alt:
 
   about:
     title: "회사 소개"
