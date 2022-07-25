@@ -164,7 +164,7 @@ ko: &DEFAULT_KO
         icon: fas fa-microchip
       - title: "다양하다"
         desc: "어느 분야든 적용이 가능합니다."
-        icon: fab fa-maximize
+        icon: fas fa-maximize
 
   portfolio:
     title: "적용 사례"
