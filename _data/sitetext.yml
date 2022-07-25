@@ -84,7 +84,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Moon SeoungWook"
-        role: "PR & Brand"
+        role: "Business Development & PR"
         image: assets/img/team/500x500.jpg
         social:
           - url: mailto://moonseoungwook.thedent.kr
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Lee Jongyoung"
-        role: "Developer & User Interface"
+        role: "Product Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: mailto://leejongyoung.thedent.kr
@@ -219,7 +219,7 @@ ko: &DEFAULT_KO
     section: team
     people:
       - name: "문승욱"
-        role: "PR & Brand"
+        role: "Business Development & PR"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -229,7 +229,7 @@ ko: &DEFAULT_KO
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "이종영"
-        role: "Developer & User Interface"
+        role: "Product Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
