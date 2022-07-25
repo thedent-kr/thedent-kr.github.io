@@ -157,7 +157,7 @@ ko: &DEFAULT_KO
     section: services
     list:
       - title: "저렴하다"
-        desc: "PLC에 비해 가격이 저렴합니다."
+        desc: "PLC에 비해 초기 구축 비용이 저렴합니다."
         icon: fas fa-coins #find more at https://fontawesome.com/icons
       - title: "간단하다"
         desc: "ATmega 기반이라서 간단하며, 사용자가 직접 프로그래밍 후 업로드도 가능합니다."
