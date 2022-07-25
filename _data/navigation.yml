@@ -34,7 +34,7 @@ en-AU:
 # -----------------
 ko: &DEFAULT_KO
   nav:
-    - title: "제품 소개"
+    - title: "제품 특징"
       section: services
     - title: "적용 사례"
       section: portfolio

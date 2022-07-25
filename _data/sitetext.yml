@@ -152,8 +152,8 @@ ko: &DEFAULT_KO
     buttonlink: "#services"
 
   services:
-    title: "제품 소개"
-    text: "우리의 제품은 이렇습니다."
+    title: "제품 특징"
+    text: ""
     section: services
     list:
       - title: "저렴하다"
