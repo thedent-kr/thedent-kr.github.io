@@ -164,7 +164,7 @@ ko: &DEFAULT_KO
         icon: fas fa-microchip
       - title: "다양하다"
         desc: "다양한 분야에서 적용이 가능합니다."
-        icon: fas <a-chart-network
+        icon: fas fa-chart-network
 
   portfolio:
     title: "적용 사례"
