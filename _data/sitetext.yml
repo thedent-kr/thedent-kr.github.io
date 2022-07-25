@@ -65,17 +65,17 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "client"
-        url: https://thedent.kr
-        logo: assets/img/clients/client.png
+        url: https://www.autonics.com
+        logo: assets/img/clients/autonics.png
       - title: "client"
-        url: https://thedent.kr
-        logo: assets/img/clients/client.png
+        url: https://www.ls-electric.com
+        logo: assets/img/clients/ls-electric.png
       - title: "client"
-        url: https://thedent.kr
-        logo: assets/img/clients/client.png
+        url: http://www.autobase.biz
+        logo: assets/img/clients/autobase.png
       - title: "client"
-        url: https://thedent.kr
-        logo: assets/img/clients/client.png
+        url: http://www.autohitech.co.kr
+        logo: assets/img/clients/autohitech.png
 
   team:
     title: "TEAM"
