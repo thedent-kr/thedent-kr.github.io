@@ -222,7 +222,7 @@ ko: &DEFAULT_KO
         role: "Business Development & PR"
         image: assets/img/team/500x500.jpg
         social:
-          - url: mailto://moonseoungwook.thedent.kr
+          - url: mailto:moonseoungwook.thedent.kr
             icon: fas fa-envelope
           - url: https://facebook.com/seungwook0
             icon: fab fa-facebook-f
@@ -232,7 +232,7 @@ ko: &DEFAULT_KO
         role: "Product Developer"
         image: assets/img/team/500x500.jpg
         social:
-          - url: mailto://leejongyoung@thedent.kr
+          - url: mailto:leejongyoung@thedent.kr
             icon: fas fa-envelope
           - url: https://facebook.com/leejongyoung0326
             icon: fab fa-facebook-f
